@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1635116590 "Journal.tex" "Journal.pdf" "Journal" 1635117070
+["pdflatex"] 1635117346 "Journal.tex" "Journal.pdf" "Journal" 1635117348
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -85,10 +85,10 @@
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1635115402 2724740 bf0bedea89e217447fcc275b03a87c37 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
   "IEEEtran.cls" 1635116397 281957 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
-  "Journal.aux" 1635116591 2344 a69b0694c4369593e4db40762d46897e "pdflatex"
-  "Journal.tex" 1635116664 15317 418fcc73a8072cf921dc73c69e091db9 ""
+  "Journal.aux" 1635117347 2344 a69b0694c4369593e4db40762d46897e "pdflatex"
+  "Journal.tex" 1635117343 15322 1ece19a9f97bdd0c8b93f1e0c47aa157 ""
   "fig1.png" 1635116397 9114 aff97bc5c34dbe614e066f55f317dcc6 ""
   (generated)
+  "Journal.pdf"
   "Journal.aux"
   "Journal.log"
-  "Journal.pdf"
