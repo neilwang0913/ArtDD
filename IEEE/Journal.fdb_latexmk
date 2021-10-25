@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1635118934 "Journal.tex" "Journal.pdf" "Journal" 1635118936
+["pdflatex"] 1635118934 "Journal.tex" "Journal.pdf" "Journal" 1635178972
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -89,6 +89,6 @@
   "Journal.tex" 1635118932 15415 fe795c039f289abc134eef0db82392ce ""
   "fig1.png" 1635117896 9114 aff97bc5c34dbe614e066f55f317dcc6 ""
   (generated)
-  "Journal.aux"
   "Journal.log"
   "Journal.pdf"
+  "Journal.aux"
